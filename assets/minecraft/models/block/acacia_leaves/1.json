@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/bushy_leaves_simple",
+  "textures": {
+		"bushy2": "block/acacia_leaves_bushy2",
+		"side": "block/acacia_leaves_side",
+		"side2": "block/acacia_leaves_side1",
+		"bushy": "block/acacia_leaves_bushy",
+		"particle": "block/acacia_leaves",
+		"cube": "block/acacia_leaves"
+  }
+}

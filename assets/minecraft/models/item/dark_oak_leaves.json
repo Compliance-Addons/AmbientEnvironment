@@ -1,0 +1,8 @@
+{
+  "parent": "item/bushy_leaves_inventory",
+  "textures": {
+    "cube": "block/dark_oak_leaves",
+    "bushy": "block/dark_oak_leaves_bushy",
+    "bushy2": "block/dark_oak_leaves_bushy2" 
+  }
+}

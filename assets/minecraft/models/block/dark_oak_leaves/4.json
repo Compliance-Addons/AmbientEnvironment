@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/bushy_leaves_simple4",
+  "textures": {
+		"bushy2": "block/dark_oak_leaves_bushy2",
+		"side": "block/dark_oak_leaves_side",
+		"side2": "block/dark_oak_leaves_side1",
+		"bushy": "block/dark_oak_leaves_bushy",
+		"particle": "block/dark_oak_leaves",
+		"cube": "block/dark_oak_leaves"
+  }
+}
